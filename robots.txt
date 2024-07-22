@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laushera.github.io/sitemap
+Sitemap: https://laushera.github.io/app/sitemap
+Sitemap: https://laushera.github.io/assets/sitemap
+Sitemap: https://laushera.github.io/css/sitemap
+Sitemap: https://laushera.github.io/includes/sitemap
+Sitemap: https://laushera.github.io/item/sitemap
+Sitemap: https://laushera.github.io/src/sitemap
